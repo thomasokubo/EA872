@@ -7,6 +7,6 @@ The activities from each experiment will result in a HTTP server, which will be 
 - Keep a directory of HTML pages;
 - Respond the main HTTP requests;
 
-Additionally, the software will make system calls in order to have network connection (socker library).
+Additionally, the software will make system calls in order to have network connection (socket library).
 
 
